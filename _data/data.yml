@@ -145,8 +145,13 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        
       - title: "Performance Analysis of Supervised Machine Learning Algorithms for Epileptic Seizure Detection with high variability EEG datasets: A Comparative Study "
-        link: "#"doi: 10.1109/UPCON47278.2019.8980115.
+        link: "doi: 10.1109/UPCON47278.2019.8980115"
         authors: G. C. Jana, A. Sabath and A. Agrawal
         conference: International Conference on Electrical, Electronics and Computer Engineering, UPCON 2019 (IEEE) 
 
