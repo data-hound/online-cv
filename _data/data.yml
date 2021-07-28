@@ -145,8 +145,7 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: Performance Analysis of Supervised Machine Learning Algorithms 
-      for Epileptic Seizure Detection with high variability EEG datasets: A Comparative Study (IEEE)
+      - title: Performance Analysis of Supervised Machine Learning Algorithms for Epileptic Seizure Detection with high variability EEG datasets: A Comparative Study (IEEE)
         link: "#"doi: 10.1109/UPCON47278.2019.8980115.
         authors: G. C. Jana, A. Sabath and A. Agrawal
         conference: International Conference on Electrical, Electronics and Computer Engineering (UPCON), ALIGARH, 2019
