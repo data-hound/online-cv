@@ -149,7 +149,7 @@ publications:
 #         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
         
       - title: "Performance Analysis of Supervised Machine Learning Algorithms for Epileptic Seizure Detection with high variability EEG datasets: A Comparative Study "
-        link: "doi: 10.1109/UPCON47278.2019.8980115"
+        link: "https://ieeexplore.ieee.org/document/8980115"
         authors: G. C. Jana, A. Sabath and A. Agrawal
         conference: International Conference on Electrical, Electronics and Computer Engineering, UPCON 2019 (IEEE) 
 
