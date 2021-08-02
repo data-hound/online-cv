@@ -1,6 +1,6 @@
 {% assign certifications = site.data.data.certifications %}
 {% if certifications %}
-<section class="section projects-section">
+<section class="section certifications-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
@@ -28,11 +28,10 @@
         {% endif %}
         </h3>
         
-        <div class="time">{{ certifiation.issue }} 
-          {% if certification.expiry %}
-            - {{ certifiation.expiry }}
+        <div class="time">{{ certifiation.issue }} - {% if certification.expiry %}
+          {{ certifiation.expiry }}
           {% else %}
-            No Expiry
+          No Expiry
           {% endif %}
         </div>
         
@@ -45,7 +44,7 @@
     </div><!--//meta-->
 
       {% if certification.tagline %}
-      - <span class="project-tagline">{{ certification.tagline }}</span>
+      - <span class="details">{{ certification.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
