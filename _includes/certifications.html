@@ -18,14 +18,25 @@
 
   {% for certification in certifications.assignments %}
     <div class="item">
+      <div class="meta">
 
-      <span class="project-title">
-        {% if certification.link %}
+      <div class="upper-row">
+        <h3 class="job-title">{% if certification.link %}
         <a href="{{ certification.link }}" target="_blank">{{ certification.title }}</a>
         {% else %}
         {{ certification.title }}
         {% endif %}
-      </span>
+        </h3>
+        
+        {% if certification.time %}
+        <div class="time">{{ certifiation.time }}</div>
+        {% endif %}
+        
+      </div><!--//upper-row-->
+
+      <div class="company">{{ certifiation.company }}</div>
+
+    </div><!--//meta-->
 
       {% if certification.tagline %}
       - <span class="project-tagline">{{ certification.tagline }}</span>
