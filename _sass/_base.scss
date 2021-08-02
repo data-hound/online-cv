@@ -193,15 +193,15 @@ p {
         top: 0;
         color: $text-grey;
     }
+	.credential-id {
+	    font-size: 6px;
+	    color: darken($text-grey, 60%);    
+	}
     .company, .university {
         margin-bottom: 10px;
         color: $text-grey;
     }
-    .credential-id {
-	    font-size: 6px;
-	    margin-bottom: 10px;
-	    color: darken($text-grey, 60%);    
-	}
+    
 
     
 
