@@ -28,11 +28,19 @@
         {% endif %}
         </h3>
         
-        {% if certification.time %}
-        <div class="time">{{ certifiation.time }}</div>
+        {% if certification.issue %}
+        <div class="time">{{ certifiation.issue }} - 
+          {% if certification.expiry %}
+            {{ certifiation.expiry }}
+          {% else %}
+            No Expiry
+          {% endif %}
+        </div>
         {% endif %}
         
       </div><!--//upper-row-->
+        
+      <div class="credential-id">{{ certification.id }}</div>
 
       <div class="company">{{ certifiation.company }}</div>
 
