@@ -193,15 +193,21 @@ p {
         top: 0;
         color: $text-grey;
     }
+	.valid-time{
+		font-size: 12px;
+		position: absolute;
+		right: 0;
+		top: 0;
+		color: $text-grey;
+	}
 	.credential-id {
-	    font-size: 10px;
+	    font-size: 12px;
 	    color: darken($text-grey, 30%);    
 	}
     .company, .university {
         margin-bottom: 10px;
         color: $text-grey;
-    }
-    
+    }   
 
     
 
