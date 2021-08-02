@@ -152,8 +152,8 @@ projects:
 
 certifications:
     title: Certifications
-    intro: >
-      With a spirit of lifelong learning, I have pursued the following Upskilling Course.
+#     intro: >
+#       With a spirit of lifelong learning, I have pursued the following Upskilling Course.
     assignments:
       - title: Velocity
         issue: 2015
@@ -171,18 +171,21 @@ certifications:
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
+        issue: 2015
         id: A1hasdg@
         link: "#"
         company: FCC
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Atom
+        issue: 2015
         id: A1hasdg@
         link: "#"
         company: FCC
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       - title: Delta
+        issue: 2015
         id: A1hasdg@
         link: "#"
         company: FCC
