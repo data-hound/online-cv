@@ -157,7 +157,7 @@ certifications:
     assignments:
       - title: Velocity
         issue_expiry: 2015 - 2019
-        id: A1hasdg@
+        cred_id: A1hasdg@
         company: FCC
         link: "#hook"
         tagline: |
@@ -165,7 +165,7 @@ certifications:
 
       - title: DevStudio
         issue_expiry: 2015 - No Expiry
-        id: A1hasdg@
+        cred_id: A1hasdg@
         link: "#"
         company: FCC
         tagline: |
@@ -173,7 +173,7 @@ certifications:
 
       - title: Tempo
         issue_expiry: 2015
-        id: A1hasdg@
+        cred_id: A1hasdg@
         link: "#"
         company: FCC
         tagline: |
@@ -182,7 +182,7 @@ certifications:
 
       - title: Atom
         issue_expiry: 2015
-        id: A1hasdg@
+        cred_id: A1hasdg@
         link: "#"
         company: FCC
         tagline: |
@@ -190,7 +190,7 @@ certifications:
 
       - title: Delta
         issue_expiry: 2015
-        id: A1hasdg@
+        cred_id: A1hasdg@
         link: "#"
         company: FCC
         tagline: | 
