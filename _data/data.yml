@@ -161,35 +161,41 @@ certifications:
         id: A1hasdg@
         company: FCC
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: |
+            A responsive website template designed to help startups promote, market and sell their products.
 
       - title: DevStudio
         issue: 2015
         id: A1hasdg@
         link: "#"
         company: FCC
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: |
+            A responsive website template designed to help web developers/designers market their services.
 
       - title: Tempo
         issue: 2015
         id: A1hasdg@
         link: "#"
         company: FCC
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: |
+            A responsive website template designed to help startups promote their products or 
+            services and to attract users &amp; investors
 
       - title: Atom
         issue: 2015
         id: A1hasdg@
         link: "#"
         company: FCC
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: |
+            A comprehensive website template solution for startups/developers to market their mobile apps.
 
       - title: Delta
         issue: 2015
         id: A1hasdg@
         link: "#"
         company: FCC
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: | 
+            A responsive Bootstrap one page theme designed to help app developers promote their mobile apps.
 
 publications:
     title: Publications
