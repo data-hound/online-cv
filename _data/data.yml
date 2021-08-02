@@ -101,6 +101,9 @@ experiences:
     - role: YTL Networks Intern
       time: May - July 2018
       company: Bharti Airtel Ltd.
+      details: |
+        Presented and demonstrated a database schema to solve entry-mismatches in the 
+        progress trackers for Project Junoon. 
       
         
 #     - role: Senior Software Engineer
@@ -130,61 +133,58 @@ projects:
     intro: >
       A few fun learning projects that I have dabbled with along the way.
     assignments:
-      - title: Velocity
+      - title: Intruder Detection system for Crop Fields
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A Convolutional Neural Network was trained on images in an augmented dataset to detect cattle against a crop field background, with empty crop fields as control dataset."
 
-      - title: DevStudio
+      - title: Review Sentiment Analysis
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Carried out smartphone feature specific sentiment analysis using VADER, along with visualization as part of RevLib."
 
-      - title: Tempo
+      - title: VideoToonification
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A python script to convert a video into a cartoon version"
 
-      - title: Atom
+      - title: Blind Source Separation on Images
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Implementation of “Signal separation from X-ray image sequence using singular value decomposition” by Chunyu Yu, Jingya ng Sun (https://doi.org/10.1016/j.bspc.2018.01.012).."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 certifications:
     title: Certifications
 #     intro: >
 #       With a spirit of lifelong learning, I have pursued the following Upskilling Course.
     assignments:
-      - title: DevStudio
-        issue_dt: 2015 
+      - title: Become a Data Scientist
+        issue_dt: 2021 
         expiry: No Expiry
-        cred_id: A1hasdg@
+        cred_id: AW-4-YyBHyrurdZvV_97Vm0bv3dM
         link: "#"
-        company: FCC
+        company: Linkedin Learning
 
 
-      - title: Tempo
-        issue_dt: 2015 
+      - title: Data Science Foundations: Fundamentals 
+        issue_dt: 2021 
         expiry: No Expiry
-        cred_id: A1hasdg@
+        cred_id: Aet2pf00VA6wqpxkZ7UgDGD5cFdX
         link: "#"
-        company: FCC
+        company: Linkedin Learning
 
 
-      - title: Atom
-        issue_dt: 2015
+      - title: Processing Text with Python Essential Training
+        issue_dt: 2021
         expiry: No Expiry
-        cred_id: A1hasdg@
+        cred_id: Aeos6SwTI_NVDQPm2smR-JHqJO3m 
         link: "#"
-        company: FCC
+        company: Linkedin Learning
 
 
-      - title: Delta
-        issue_dt: 2015
+      - title: Predictive Modeling Strategy at Scale
+        issue_dt: 2021
         expiry: No Expiry
-        cred_id: A1hasdg@
+        cred_id: Ab-tnLmWI8rkEQDM_wLqb2ZhTip
         link: "#"
-        company: FCC
+        company: Linkedin Learning
 
      
 #       - title: Velocity
@@ -226,20 +226,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Machine Learning
-        level: 98%
-
       - name: Supervised Learning
-        level: 98%
+        level: 79%
+
+      - name: Machine Learning
+        level: 76%
 
       - name: NLP
-        level: 96%
+        level: 70%
 
       - name: Data Analytics
-        level: 95%
+        level: 75%
 
       - name: Data Guard
-        level: 85%
+        level: 70%
 
       - name: Python
         level: 70%
