@@ -28,15 +28,13 @@
         {% endif %}
         </h3>
         
-        {% if certification.issue %}
-        <div class="time">{{ certifiation.issue }} - 
+        <div class="time">{{ certifiation.issue }} 
           {% if certification.expiry %}
-            {{ certifiation.expiry }}
+            - {{ certifiation.expiry }}
           {% else %}
             No Expiry
           {% endif %}
         </div>
-        {% endif %}
         
       </div><!--//upper-row-->
         
