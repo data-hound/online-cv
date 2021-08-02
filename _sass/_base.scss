@@ -193,14 +193,11 @@ p {
         top: 0;
         color: $text-grey;
     }
-    .company, .university {
+    .company, .university, .credential-id {
         margin-bottom: 10px;
         color: $text-grey;
     }
-    .credential-id {
-        
-        color: $text-grey;
-    }
+    
 
     .project-title {
         font-size: 16px;
