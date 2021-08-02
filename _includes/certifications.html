@@ -7,28 +7,28 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
-    {{ projects.title }}
+    {{ certifications.title }}
   </h2>
 
-  {% if projects.intro %}
+  {% if certifications.intro %}
   <div class="intro">
-      <p>{{ projects.intro }}</p>
+      <p>{{ certifications.intro }}</p>
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in projects.assignments %}
+  {% for project in certifications.assignments %}
     <div class="item">
 
       <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+        {% if certifications.link %}
+        <a href="{{ certifications.link }}" target="_blank">{{ certifications.title }}</a>
         {% else %}
-        {{ project.title }}
+        {{ certifications.title }}
         {% endif %}
       </span>
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% if certifications.tagline %}
+      - <span class="project-tagline">{{ certifications.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
