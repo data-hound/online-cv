@@ -156,8 +156,7 @@ certifications:
 #       With a spirit of lifelong learning, I have pursued the following Upskilling Course.
     assignments:
       - title: Velocity
-        issue: 2015
-        expiry: 2019
+        issue_expiry: 2015 - 2019
         id: A1hasdg@
         company: FCC
         link: "#hook"
@@ -165,7 +164,7 @@ certifications:
             A responsive website template designed to help startups promote, market and sell their products.
 
       - title: DevStudio
-        issue: 2015
+        issue_expiry: 2015 - No Expiry
         id: A1hasdg@
         link: "#"
         company: FCC
@@ -173,7 +172,7 @@ certifications:
             A responsive website template designed to help web developers/designers market their services.
 
       - title: Tempo
-        issue: 2015
+        issue_expiry: 2015
         id: A1hasdg@
         link: "#"
         company: FCC
@@ -182,7 +181,7 @@ certifications:
             services and to attract users &amp; investors
 
       - title: Atom
-        issue: 2015
+        issue_expiry: 2015
         id: A1hasdg@
         link: "#"
         company: FCC
@@ -190,7 +189,7 @@ certifications:
             A comprehensive website template solution for startups/developers to market their mobile apps.
 
       - title: Delta
-        issue: 2015
+        issue_expiry: 2015
         id: A1hasdg@
         link: "#"
         company: FCC
