@@ -26,7 +26,12 @@
         {% else %}
         {{ certification.title }}
         {% endif %}
-        <div class="time">{{ certification.issue_expiry }} </div>
+        <div class="valid-time">{{ certification.issue_expiry }} - {% if certification.expiry %}
+          {{ certification.expiry  }}
+          {% else %}
+          No Expiration Date
+          {% endif %}
+          </div>
         </h3>
        
         
