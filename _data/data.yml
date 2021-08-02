@@ -155,46 +155,41 @@ certifications:
 #     intro: >
 #       With a spirit of lifelong learning, I have pursued the following Upskilling Course.
     assignments:
-      - title: Velocity
-        issue_expiry: 2015 - 2019
-        cred_id: A1hasdg@
-        company: FCC
-        link: "#hook"
-        tagline: |
-            A responsive website template designed to help startups promote, market and sell their products.
-
       - title: DevStudio
         issue_expiry: 2015 - No Expiry
         cred_id: A1hasdg@
         link: "#"
         company: FCC
-        tagline: |
-            A responsive website template designed to help web developers/designers market their services.
+
 
       - title: Tempo
-        issue_expiry: 2015
+        issue_expiry: 2015 - No Expiry
         cred_id: A1hasdg@
         link: "#"
         company: FCC
-        tagline: |
-            A responsive website template designed to help startups promote their products or 
-            services and to attract users &amp; investors
+
 
       - title: Atom
         issue_expiry: 2015
         cred_id: A1hasdg@
         link: "#"
         company: FCC
-        tagline: |
-            A comprehensive website template solution for startups/developers to market their mobile apps.
+
 
       - title: Delta
         issue_expiry: 2015
         cred_id: A1hasdg@
         link: "#"
         company: FCC
-        tagline: | 
-            A responsive Bootstrap one page theme designed to help app developers promote their mobile apps.
+
+     
+#       - title: Velocity
+#         issue_expiry: 2015 - 2019
+#         cred_id: A1hasdg@
+#         company: FCC
+#         link: "#hook"
+#         tagline: |
+#             A responsive website template designed to help startups promote, market and sell their products.
 
 publications:
     title: Publications
