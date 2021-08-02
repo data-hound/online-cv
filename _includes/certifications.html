@@ -16,19 +16,19 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in certifications.assignments %}
+  {% for certification in certifications.assignments %}
     <div class="item">
 
       <span class="project-title">
-        {% if certifications.link %}
-        <a href="{{ certifications.link }}" target="_blank">{{ certifications.title }}</a>
+        {% if certification.link %}
+        <a href="{{ certification.link }}" target="_blank">{{ certification.title }}</a>
         {% else %}
-        {{ certifications.title }}
+        {{ certification.title }}
         {% endif %}
       </span>
 
-      {% if certifications.tagline %}
-      - <span class="project-tagline">{{ certifications.tagline }}</span>
+      {% if certification.tagline %}
+      - <span class="project-tagline">{{ certification.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
