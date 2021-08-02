@@ -156,35 +156,39 @@ certifications:
 #       With a spirit of lifelong learning, I have pursued the following Upskilling Course.
     assignments:
       - title: DevStudio
-        issue_expiry: 2015 - No Expiry
+        issue_dt: 2015 
+        expiry: No Expiry
         cred_id: A1hasdg@
         link: "#"
         company: FCC
 
 
       - title: Tempo
-        issue_expiry: 2015 - No Expiry
+        issue_dt: 2015 
+        expiry: No Expiry
         cred_id: A1hasdg@
         link: "#"
         company: FCC
 
 
       - title: Atom
-        issue_expiry: 2015
+        issue_dt: 2015
+        expiry: No Expiry
         cred_id: A1hasdg@
         link: "#"
         company: FCC
 
 
       - title: Delta
-        issue_expiry: 2015
+        issue_dt: 2015
+        expiry: No Expiry
         cred_id: A1hasdg@
         link: "#"
         company: FCC
 
      
 #       - title: Velocity
-#         issue_expiry: 2015 - 2019
+#         issue: 2015 - 2019
 #         cred_id: A1hasdg@
 #         company: FCC
 #         link: "#hook"
