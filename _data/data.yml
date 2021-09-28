@@ -161,6 +161,13 @@ certifications:
         cred_id: AW-4-YyBHyrurdZvV_97Vm0bv3dM
         link: "#"
         company: Linkedin Learning
+        
+      - title: Get Ahead in Data Science 
+        issue_dt: 2021 
+        expiry: No Expiry
+        cred_id: ASU5wYr1xuPzWvS_ihD--J7s3bXr
+        link: "#"
+        company: Linkedin Learning
 
 
       - title: Data Science Foundations - Fundamentals 
