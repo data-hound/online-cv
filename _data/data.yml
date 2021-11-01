@@ -78,8 +78,15 @@ education:
           - Numerical Methods
           - Data Structures and Operating Systems
 experiences:
+    - role: Research Associate (Incoming)
+      time: 2022
+      company: t.Dunn Lab
+      details: |
+        Work on improvizing an aid for behavioral modelling in rodents using accurate 3D pose
+        estimation. 
+          
     - role: Member of Technical Staff
-      time: 2019 - Present
+      time: Jun 2019 - Oct 2021
       company: Oracle
       details: |
         Maintain and automate processes as part of Database High Availability team
