@@ -71,7 +71,7 @@ education:
       time: 2015 - 2019
       details: |
         A well rounded coursework covering the basics of Electrical Engineering,
-        Computer Science and Communication Networks.
+        Computer Science and Engineering, and Communication Networks.
           - Digital Signal Processing
           - Computer Architecture
           - Mobile Communication Networks
@@ -220,7 +220,11 @@ publications:
 #         link: "#"
 #         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
 #         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-        
+      - title: "Capsule neural networks on spatio-temporal EEG frames for cross-subject emotion recognition "
+        link: "https://doi.org/10.1016/j.bspc.2021.103361"
+        authors: Gopal Chandra Jana, Anshuman Sabath, Anupam Agrawal
+        conference: Biomedical Signal Processing and Control, Volume 72, Part B, 2022, 103361, ISSN 1746-8094 
+      
       - title: "Performance Analysis of Supervised Machine Learning Algorithms for Epileptic Seizure Detection with high variability EEG datasets: A Comparative Study "
         link: "https://ieeexplore.ieee.org/document/8980115"
         authors: G. C. Jana, A. Sabath and A. Agrawal
