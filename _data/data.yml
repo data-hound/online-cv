@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: sabathanshuman@gmail.com
-    phone: 7233018643
+    phone: 9846831497
     website: #blog.webjeda.com #do not add http://
     linkedin: linkedin.com/in/anshuman-sabath-045aa045/
     xing: #alandoe
@@ -50,10 +50,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have a track record in Machine Learning and Cellular Communications,
-      with a keen interest in automation. Currently working as MTS at Oracle
-      in Database High Availability and Data Guard offerings of Oracle Enter
-      prise Manager
+      I am a multidisciplinary professional with a passion for translating 
+      innovative research into impactful solutions. With expertise in 
+      computational neuroscience, machine learning, Python, 
+      cellular communication networks, and operations management, 
+      I thrive at the intersection of technology, innovation, and entrepreneurship. 
+      My background includes diverse roles in both academia and industry, 
+      coupled with hands-on experience in startup mentorship and networking.
+      
 education:
 #     - degree: MSc in Computer Science
 #       university: University of London
@@ -66,6 +70,19 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
+    - degree: PhD. in Biomedical Engineering
+      university: Duke University
+      time: 2023 - Present
+      details: |
+        My Research objectives revolve around modeling vision processes and 
+        cognitive abilities  computationally, and hence improving the current
+        AI algorithms (especially Deep Learning). I have become interested in
+        finding the computations underlying emotions, and seek to dive into its
+        nuances with both animal models and LLMs. For this, I have been working on
+          - Neural Network Compression 
+          - Binocular Rivalry modeling to understand efficient spatiotemporal processing
+          - Detection of Major Depressive Disorder in LPS mouse models using DANNCE
+          - Cognitive processes modeling with LLM agents
     - degree: BTech in Electronics and Communication Engineering
       university: Motilal Neheru National Institute of Technology
       time: 2015 - 2019
@@ -78,12 +95,15 @@ education:
           - Numerical Methods
           - Data Structures and Operating Systems
 experiences:
-    - role: Research Associate (Incoming)
-      time: 2022
+    - role: Research Associate 
+      time: Feb 2022 - Aug 2023
       company: t.Dunn Lab
       details: |
         Work on improvizing an aid for behavioral modelling in rodents using accurate 3D pose
-        estimation. 
+        estimation via in-house developed software, DANNCE.
+        - Finetuend DANNCE for a novel (patented) behavioral arena (in collaboration with Tadross Lab)
+        - Developed Unsupervised metrics for estimating goodness of tracking
+        - Set-up a 6-camera large open-field rig with miniscope based Ca-imaging
           
     - role: Member of Technical Staff
       time: Jun 2019 - Oct 2021
@@ -140,6 +160,22 @@ projects:
     intro: >
       A few fun learning projects that I have dabbled with along the way.
     assignments:
+      - title: ClinicalIE (Hackathon Project)
+        link: "#"
+        tagline: "Made a GPT-4 based RAG for metadata prediction from tabular biomedical data"
+      
+      - title: Automation of DB Home Operations
+        link: "#"
+        tagline: "Automated database operations, like opening, closing, etc. of multiple databases in a Oracle DB home"
+        
+      - title: Blind Source Separation on Images
+        link: "#"
+        tagline: "Implementation of “Signal separation from X-ray image sequence using singular value decomposition” by Chunyu Yu, Jingya ng Sun (https://doi.org/10.1016/j.bspc.2018.01.012).."
+
+      - title: FPGA Implementation of Neural Networks
+        link: "#"
+        tagline: "Designed a feedforward perceptron model using Verilog HDL for Xilinx ISE 14.7 with two hidden layers, and implemented and verified it on Spartan-3E FPGA kit on a custom dataset"
+        
       - title: Intruder Detection system for Crop Fields
         link: "#hook"
         tagline: "A Convolutional Neural Network was trained on images in an augmented dataset to detect cattle against a crop field background, with empty crop fields as control dataset."
@@ -152,9 +188,7 @@ projects:
         link: "#"
         tagline: "A python script to convert a video into a cartoon version"
 
-      - title: Blind Source Separation on Images
-        link: "#"
-        tagline: "Implementation of “Signal separation from X-ray image sequence using singular value decomposition” by Chunyu Yu, Jingya ng Sun (https://doi.org/10.1016/j.bspc.2018.01.012).."
+      
 
 
 certifications:
@@ -246,6 +280,9 @@ skills:
     toolset:
       - name: Supervised Learning
         level: 79%
+
+      - name: LLM RAG
+        level: 60%
 
       - name: Machine Learning
         level: 73%
