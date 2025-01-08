@@ -50,13 +50,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a multidisciplinary professional with a passion for translating 
-      innovative research into impactful solutions. With expertise in 
-      computational neuroscience, machine learning, Python, 
-      cellular communication networks, and operations management, 
-      I thrive at the intersection of technology, innovation, and entrepreneurship. 
-      My background includes diverse roles in both academia and industry, 
-      coupled with hands-on experience in startup mentorship and networking.
+      I am a researcher with passion for tackling problems at the intersection of AI 
+      and neuroscience. Currently, I am focussing on depression models in rodents,
+      extending computer vision tools from the lab to distinguish between control and
+      diseased conditions. I leverage my background in cellular communication, and software
+      engineering to approach the neurobiology of depression and form an understanding
+      of its aspects that impact affect.
+      
+      # I am a multidisciplinary professional with a passion for translating 
+      # innovative research into impactful solutions. With expertise in 
+      # computational neuroscience, machine learning, Python, 
+      # cellular communication networks, and operations management, 
+      # I thrive at the intersection of technology, innovation, and entrepreneurship. 
+      # My background includes diverse roles in both academia and industry, 
+      # coupled with hands-on experience in startup mentorship and networking.
       
 education:
 #     - degree: MSc in Computer Science
