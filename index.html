@@ -13,7 +13,15 @@ layout: default
 
 {% include projects.html %}
 
-{% include publications.html %}
+{% include paper-list.html section=site.data.data.publications icon="file-alt" %}
+
+{% include paper-list.html section=site.data.data.in_prep icon="pencil-alt" %}
+
+
+
+{% include presentations.html %}
+
+{% include awards.html %}
 
 {% include certifications.html %}
 

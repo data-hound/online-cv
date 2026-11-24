@@ -1,0 +1,84 @@
+/* Dark theme overrides. Applied when <html data-theme="dark">; set by the toggle in _layouts/default.html. */
+
+html[data-theme="dark"] { color-scheme: dark; background: #101214; }
+
+html[data-theme="dark"] body {
+  color: #c5cbd0;
+  background: #101214;
+}
+
+html[data-theme="dark"] .wrapper {
+  background: #2c4049;
+  -webkit-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+}
+html[data-theme="dark"] .sidebar-wrapper { background: #2c4049; }
+html[data-theme="dark"] .main-wrapper { background: #1b1f23; }
+
+html[data-theme="dark"] a { color: #8fc3d6; }
+html[data-theme="dark"] a:hover { color: #b9dce8; }
+html[data-theme="dark"] .sidebar-wrapper a { color: #fff; }
+
+html[data-theme="dark"] .main-wrapper .section-title,
+html[data-theme="dark"] .main-wrapper .presentation-group { color: #e3e8ec; }
+html[data-theme="dark"] .main-wrapper .job-title,
+html[data-theme="dark"] .main-wrapper .degree,
+html[data-theme="dark"] .main-wrapper .project-title,
+html[data-theme="dark"] .main-wrapper .publication-title { color: #e3e7ea; }
+html[data-theme="dark"] .main-wrapper .details,
+html[data-theme="dark"] .main-wrapper .intro,
+html[data-theme="dark"] .main-wrapper li,
+html[data-theme="dark"] .main-wrapper p { color: #c5cbd0; }
+html[data-theme="dark"] .main-wrapper .company,
+html[data-theme="dark"] .main-wrapper .university,
+html[data-theme="dark"] .main-wrapper .time,
+html[data-theme="dark"] .main-wrapper .valid-time,
+html[data-theme="dark"] .main-wrapper .publication-authors,
+html[data-theme="dark"] .main-wrapper .publication-conference { color: #9fb2c8; }
+html[data-theme="dark"] .main-wrapper .credential-id { color: #8fa3bd; }
+
+html[data-theme="dark"] .skillset .level-bar { background: #2a2f33; }
+html[data-theme="dark"] .skillset .level-title { color: #c5cbd0; }
+
+html[data-theme="dark"] .footer .copyright { color: #8b9196; }
+
+.presentation-group {
+  margin: 20px 0 10px;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #2e4049;
+}
+.awards-list { padding-left: 20px; }
+.awards-list li { margin-bottom: 6px; }
+
+/* theme toggle button */
+#theme-toggle {
+  position: fixed;
+  right: 14px;
+  bottom: 14px;
+  z-index: 100;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  font-size: 18px;
+  line-height: 38px;
+  text-align: center;
+  color: #3f4650;
+  background: #fff;
+  border: 1px solid #bdc1c4;
+  border-radius: 50%;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+#theme-toggle:hover { border-color: #6c92a3; }
+#theme-toggle:focus-visible { outline: 2px solid #6c92a3; outline-offset: 2px; }
+html[data-theme="dark"] #theme-toggle {
+  color: #eceef0;
+  background: #1b1f23;
+  border-color: #3a3f44;
+}
+
+@media print {
+  #theme-toggle { display: none; }
+}

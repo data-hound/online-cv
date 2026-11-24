@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Anshuman Sabath
-    tagline: Machine Learning | Cellular Networks | Oracle Data Guard
+    tagline: Uncovering computations underlying emotions
     avatar: Jekyll-Profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -50,153 +50,217 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a researcher with passion for tackling problems at the intersection of AI 
-      and neuroscience. Currently, I am focussing on depression models in rodents,
+      I am a researcher with a passion for tackling problems at the intersection of AI
+      and neuroscience. Currently, I am focusing on depression models in rodents,
       extending computer vision tools from the lab to distinguish between control and
-      diseased conditions. I leverage my background in cellular communication, and software
+      diseased conditions. I leverage my background in cellular communication and software
       engineering to approach the neurobiology of depression and form an understanding
       of its aspects that impact affect.
-      
-# I am a multidisciplinary professional with a passion for translating 
-# innovative research into impactful solutions. With expertise in 
-# computational neuroscience, machine learning, Python, 
-# cellular communication networks, and operations management, 
-# I thrive at the intersection of technology, innovation, and entrepreneurship. 
-# My background includes diverse roles in both academia and industry, 
-# coupled with hands-on experience in startup mentorship and networking.
-      
+
 education:
-#     - degree: MSc in Computer Science
-#       university: University of London
-#       time: 2011 - 2012
-#       details: |
-#         Describe your study here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#         sociis natoque penatibus et magnis dis parturient montes, nascetur
-#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#         pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-    - degree: PhD. in Biomedical Engineering
+    - degree: PhD in Biomedical Engineering
       university: Duke University
       time: 2023 - Present
       details: |
-        My Research objectives revolve around modeling vision processes and 
-        cognitive abilities  computationally, and hence improving the current
-        AI algorithms (especially Deep Learning). I have become interested in
-        finding the computations underlying emotions, and seek to dive into its
-        nuances with both animal models and LLMs. For this, I have been working on
-          - Neural Network Compression 
-          - Binocular Rivalry modeling to understand efficient spatiotemporal processing
-          - Detection of Major Depressive Disorder in LPS mouse models using DANNCE
-          - Cognitive processes modeling with LLM agents
+        Developing methods for precise quantification of affect in rodents, to form a
+        non-anthropocentric understanding of affective circuits, alongside experimenting with
+        foundation models (LLMs) for biologically faithful evidence of affect.
+          - GPA 3.86
+          - Duke Office of Translation and Commercialization (OTC) Senior Graduate Fellow
     - degree: BTech in Electronics and Communication Engineering
-      university: Motilal Neheru National Institute of Technology
+      university: Motilal Nehru National Institute of Technology Allahabad
       time: 2015 - 2019
       details: |
-        A well rounded coursework covering the basics of Electrical Engineering,
-        Computer Science and Engineering, and Communication Networks.
-          - Digital Signal Processing
-          - Computer Architecture
-          - Mobile Communication Networks
-          - Numerical Methods
-          - Data Structures and Operating Systems
+        A 4-year engineering degree with a focus on signals and communication.
+          - Thesis: Image Denoising using Blind Source Separation and Neural Networks
+          - Digital Signal Processing, Computer Architecture, Mobile Communication Networks
+
 experiences:
-    - role: Research Associate 
-      time: Feb 2022 - Aug 2023
-      company: t.Dunn Lab
+    - role: Graduate Student Researcher
+      time: Aug 2023 - Present
+      company: Dunn Lab, Duke University
       details: |
-        Work on improvizing an aid for behavioral modelling in rodents using accurate 3D pose
-        estimation via in-house developed software, DANNCE.
-        - Finetuend DANNCE for a novel (patented) behavioral arena (in collaboration with Tadross Lab)
-        - Developed Unsupervised metrics for estimating goodness of tracking
-        - Set-up a 6-camera large open-field rig with miniscope based Ca-imaging
-          
+        - Developing f-DANNCE, an extension of the DANNCE network for facial tracking in freely moving mice
+        - Using depression mouse models to record affective reactions with f-DANNCE
+        - Mapping between calcium traces and behavior for freely-moving mice
+        - Using foundation-model representations to analyze behavior, towards a mechanistic interpretation grounded in biology
+    - role: Algorithm Team Lead
+      time: Apr 2025 - Present
+      company: Liberata
+      details: |
+        - Developed novel scientometrics to combat inequities in academic publishing through precise contribution tracking
+        - Developing novel representations of the academic publishing system
+    - role: Senior Graduate Fellow (2025 - Present), Junior Fellow (2024 - 2025)
+      time: 2024 - Present
+      company: Duke Office of Translation and Commercialization (OTC)
+      details: |
+        - Conduct technology assessments of software and AI-related invention disclosures
+        - Mentor Junior Fellows
+    - role: Associate in Research
+      time: Feb 2022 - Aug 2023
+      company: Dunn Lab, Duke University
+      details: |
+        - Fine-tuned DANNCE for a novel (patented) behavioral arena, in collaboration with the Tadross Lab
+        - Developed unsupervised metrics for estimating goodness of tracking
+        - Set up a 6-camera large open-field rig with miniscope-based calcium imaging
     - role: Member of Technical Staff
-      time: Jun 2019 - Oct 2021
+      time: Jul 2019 - Oct 2021
       company: Oracle
       details: |
-        Maintain and automate processes as part of Database High Availability team
-        of Oracle Enterprise Manager. Experienced working on Oracle Data Guard
-        related offerings as well as Oracle Fusion Middleware offerings in Oracle
-        Enterprise Manager in a diverse team.
-          - Enhancing and Maintaining multiple Standby and Clone Creation Wizards
-          - Enhancing and Maintaining Service Level Management (ASLM) area
-          - Actively working with customer requirements
-    
+        Database High Availability, Data Guard and Fusion Middleware plugins in Oracle Enterprise Manager, in a diverse international team.
+          - Enhanced and maintained multiple Standby and Clone Creation Wizards
+          - Developed and maintained Service Level Management (ASLM) offerings
+          - Worked directly with customer requirements
     - role: Research Intern
-      time: Feb - Jun 2019
-      company: ITMR Lab, IIITA
+      time: Feb 2019 - Jun 2019
+      company: ITMR Lab, IIIT Allahabad
       details: |
-        During my tenure at the lab, I developed an understanding of EEG Inference
-        applied to Epileptic Seizure Detection and Emotion Classifiation, and worked
-        towards generating research insights in the domain.
-        
+        EEG-based epileptic seizure detection and emotion classification, including Extreme Learning Machines and dynamic routing in Capsule networks.
     - role: YTL Networks Intern
-      time: May - July 2018
+      time: May 2018 - Jul 2018
       company: Bharti Airtel Ltd.
       details: |
-        Presented and demonstrated a database schema to solve entry-mismatches in the 
-        progress trackers for Project Junoon. 
-      
-        
-#     - role: Senior Software Engineer
-#       time: 2014 - 2015
-#       company: Google, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-#     - role: UI Developer
-#       time: 2012 - 2014
-#       company: Amazon, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
+        Presented and demonstrated a database schema to solve entry-mismatches in the progress trackers for Project Junoon.
+    - role: Research Intern
+      time: Jul 2016 - Mar 2017
+      company: DCN Lab, MNNIT Allahabad
+      details: |
+        Small cell design from the bottom up, with a focus on simulating and prototyping a neutral host femtocell; funded by DIIC, MNNIT.
+
 projects:
     title: Projects
     intro: >
-      A few fun learning projects that I have dabbled with along the way.
+      Research and learning projects along the way.
     assignments:
+      - title: Capturing affect in freely moving animals by facial tracking
+        link: "#"
+        tagline: "LPS-induced and VMAT2-Het mouse models of depression, characterized with DANNCE and f-DANNCE tracking; mentored 3 high-school students across 2 DUNE program years"
+      - title: DANNCE finetuning for St3DIO
+        link: "#"
+        tagline: "Finetuned DANNCE for the St3DIO arenas to reach error margins comparable to inter-annotator disagreement, scaling predictions on terabytes of video to characterize Parkinson Disease mouse models"
       - title: ClinicalIE (Hackathon Project)
         link: "#"
         tagline: "Made a GPT-4 based RAG for metadata prediction from tabular biomedical data"
-      
       - title: Automation of DB Home Operations
         link: "#"
-        tagline: "Automated database operations, like opening, closing, etc. of multiple databases in a Oracle DB home"
-        
+        tagline: "Automated database operations, like opening, closing, etc. of multiple databases in an Oracle DB home"
       - title: Blind Source Separation on Images
         link: "#"
-        tagline: "Implementation of “Signal separation from X-ray image sequence using singular value decomposition” by Chunyu Yu, Jingya ng Sun (https://doi.org/10.1016/j.bspc.2018.01.012).."
-
+        tagline: "Implementation of Signal separation from X-ray image sequence using singular value decomposition by Chunyu Yu and Jingya Sun (https://doi.org/10.1016/j.bspc.2018.01.012)"
       - title: FPGA Implementation of Neural Networks
         link: "#"
-        tagline: "Designed a feedforward perceptron model using Verilog HDL for Xilinx ISE 14.7 with two hidden layers, and implemented and verified it on Spartan-3E FPGA kit on a custom dataset"
-        
+        tagline: "Designed a feedforward perceptron model using Verilog HDL for Xilinx ISE 14.7 with two hidden layers, and implemented and verified it on a Spartan-3E FPGA kit on a custom dataset"
       - title: Intruder Detection system for Crop Fields
         link: "#hook"
-        tagline: "A Convolutional Neural Network was trained on images in an augmented dataset to detect cattle against a crop field background, with empty crop fields as control dataset."
-
+        tagline: "A Convolutional Neural Network was trained on images in an augmented dataset to detect cattle against a crop field background, with empty crop fields as the control dataset"
       - title: Review Sentiment Analysis
         link: "#"
-        tagline: "Carried out smartphone feature specific sentiment analysis using VADER, along with visualization as part of RevLib."
-
       - title: VideoToonification
         link: "#"
         tagline: "A python script to convert a video into a cartoon version"
 
-      
+publications:
+    title: Publications
+    papers:
+      - title: "Liberata: Graph Scientometrics for a Share Based System of Academic Publishing"
+        link: "https://arxiv.org/abs/2605.02128"
+        authors: Han Zhang, Anshuman Sabath, Timothy W. Dunn, L. Catherine Brinson
+        conference: arXiv preprint arXiv:2605.02128, 2026
+      - title: "Disentangling 3D Animal Pose Dynamics with Scrubbed Conditional Latent Variables"
+        link: "https://proceedings.iclr.cc/paper_files/paper/2025/file/3b39fc8c1f437fc52706cfa759ccda12-Paper-Conference.pdf"
+        authors: Joshua Huang Wu, Hari Koneru, James Russell Ravenel, Anshuman Sabath, James Michael Roach, Shaun Sze-Xian Lim, Michael R. Tadross, Alex H. Williams, Timothy W. Dunn
+        conference: ICLR 2025
+      - title: "Capsule neural networks on spatio-temporal EEG frames for cross-subject emotion recognition"
+        link: "https://doi.org/10.1016/j.bspc.2021.103361"
+        authors: Gopal Chandra Jana, Anshuman Sabath, Anupam Agrawal
+        conference: Biomedical Signal Processing and Control, Volume 72, Part B, 2022, 103361
+      - title: "Performance Analysis of Supervised Machine Learning Algorithms for Epileptic Seizure Detection with high variability EEG datasets: A Comparative Study"
+        link: "https://ieeexplore.ieee.org/document/8980115"
+        authors: G. C. Jana, A. Sabath and A. Agrawal
+        conference: 2019 International Conference on Electrical, Electronics and Computer Engineering (UPCON), IEEE
 
+in_prep:
+    title: Manuscripts in Preparation
+    papers:
+      - title: "A ST3DIO to standardize open-field behavior"
+      - title: "3D Tracking freely-moving rodent facial expressions with f-DANNCE"
+      - title: "RECAST: sequential decision-making that guides the molecular work-up of glioma to a WHO-supported diagnosis"
+        authors: Nura Brimo, Anshuman Sabath, Hassan Harb, Emir Baki Denkbaş, Marina Ayad, Mikhail A. Nikiforov, Christoph Schmidt, Issam El Naqa
+
+presentations:
+    title: Presentations
+    groups:
+      - name: Talks
+        items:
+          - title: "What can 3D Orofacial Tracking in freely moving mice tell us about depressive phenotyping"
+            authors: A. Sabath (presenter), A. Izquierdo, D. Zalles, Y. Shi, J. Wu, R.-Z. Zhan, T. W. Dunn
+            venue: BMES Annual Meeting 2026, Orlando, FL, 23 Oct 2026
+          - title: "Graph Based Scientometrics for a Shares Based Accreditation & Academic Marketplace System of Research Publishing"
+            link: "https://zenodo.org/records/22656785"
+            authors: H. Zhang, A. Sabath (presenter), T. W. Dunn, L. C. Brinson
+            venue: STI-ENID 2026, Antwerp, Belgium, 11 Sep 2026
+      - name: Posters
+        items:
+          - title: "Orofacial tracking in freely moving animals captures behavioral phenotypes beyond standard 3D pose analyses"
+            authors: A. Sabath (presenter), A. Izquierdo, D. Zalles, Y. Shi, J. Wu, R.-Z. Zhan, T. W. Dunn
+            venue: SfN 2026, Washington, D.C., 16 Nov 2026 (PSTR160.04)
+          - title: "St3DIO: A Standardized 3D Behavioral Arena for Aiming to Enable Cross Study Pose Estimation and Disease Phenotyping"
+            authors: J. Roach, S. S.-X. Lim, J. Wu, A. Sabath, J. R. Ravenel, A. Choudhury, P. Nambiar, S. Singh, B. C. Shields, N. Calakos, T. W. Dunn, M. R. Tadross
+            venue: SfN 2026, Washington, D.C., 16 Nov 2026 (PSTR208.14)
+          - title: "High-throughput 3D pose tracking reveals sex-dependent behavioral phenotypes in early-stage Parkinsonian mice"
+            authors: J. Wu, S. Lim, J. Roach, A. Sabath, J. R. Ravenel, A. Choudhury, B. Shields, S. Singh, I. Weaver, M. Tadross, T. Dunn
+            venue: Cosyne 2026, Lisbon, Portugal, 13 Mar 2026 (2-191)
+          - title: "A Scalable Platform for Social Neural Imaging: Integrating Multi-animal 3D Pose Tracking and Calcium Imaging in Freely Interacting Animals"
+            authors: L. Qi, R.-Z. Zhan, T. Li, A. Sabath, J. Wu, T. W. Dunn
+            venue: SfN 2025, San Diego, CA, 17 Nov 2025 (PSTR177.04)
+          - title: "A Scalable System for Social Neural Imaging: Integrating Multi-animal 3D Pose Tracking and Calcium Imaging in Freely Interacting Animals"
+            authors: L. Qi, R. Zhan, A. Sabath, T. Li, J. Wu, T. W. Dunn
+            venue: BMES Annual Meeting 2025 (P32)
+          - title: "Disentangling latent representations of behavior from 3D pose"
+            authors: J. Wu, H. Koneru, J. Ravenel, A. Sabath, J. Roach, S. Lim, M. Tadross, A. Williams, T. Dunn
+            venue: Cosyne 2025, Montréal, Canada, 27 Mar 2025 (1-075)
+          - title: "Recursive Gram Transformation and non-repeating Matrix sequences over a modulo-Ring"
+            link: "https://math.unc.edu/tricams/abstracts/"
+            authors: A. Sabath (first author)
+            venue: TriCAMS 2024, UNC Chapel Hill, 26-27 Oct 2024
+          - title: "A Standardized 3D Ethological Observatory for high throughput Behavioral Analysis"
+            authors: J. M. Roach, S. S. Lim, J. Wu, A. Sabath, J. R. Ravenel, A. Choudhury, S. Singh, B. C. Shields, T. Dunn, M. R. Tadross
+            venue: SfN 2024, Chicago, IL, 8 Oct 2024 (PSTR316.25)
+          - title: "A ST3DIO to Bridging the Gap between Cutting Edge Neural Networks and High Throughput Behavior Pipelines"
+            authors: J. M. Roach, I. A. Weaver, S. S. X. Lim, J. H. Wu, J. A. Ravenel, A. Choudhury, A. Sabath, S. Singh, B. C. Shields, T. W. Dunn, M. R. Tadross
+            venue: SfN 2023, Washington, D.C., 13 Nov 2023 (PSTR309.09)
+      - name: Mentored student presentations
+        items:
+          - title: "FACE-DANNCER Validation: 3-D Orofacial Tracking in Mice"
+            authors: D. A. Zalles, A. Sabath, T. Dunn
+            venue: Pratt Research Fellows Program and Graduation with Departmental Distinction, 2026
+          - title: "Liberata - Novel Academic Metrics for a Share Based Accreditation System of Publishing (Best Poster Award)"
+            link: "https://stsynkov.math.ncsu.edu/tricams2025/files/TriCAMS_2025_Poster_Abstracts.pdf"
+            authors: C. Huo (presenter), H. Zhang, A. Sabath, T. W. Dunn, L. C. Brinson
+            venue: TriCAMS 2025, NC State University, 8-9 Nov 2025
+          - title: "Analyzing VMAT-2 Mice drinking behavior vs Control using DANNCE"
+            authors: D. Dejesus, A. Sabath, J. Wu, S. Shi, M. Jang, R. Zhan, T. Dunn
+            venue: Duke University Neuroscience Experience (DUNE) program, 2025
+          - title: "Comparing VMAT2 Heterozygous and SHANK3 mice model using DANNCE"
+            authors: S. Dowdy, A. Sabath, J. Wu, S. Shi, M. Jang, R. Zhan, T. Dunn
+            venue: Duke University Neuroscience Experience (DUNE) program, 2025
+          - title: "Detecting Depression with DANNCE"
+            authors: A. Izquierdo, A. Sabath, R. Zhan, J. Wu, S. Shi, T. Dunn
+            venue: Duke University Neuroscience Experience (DUNE) program, 2024
+
+awards:
+    title: Achievements and Awards
+    items:
+      - "3rd Place, 2026 Dr. Robert Gillies Machine Learning Hackathon, Moffitt Cancer Center (RECAST)"
+      - "Judges' Stars, OSI Hackathon 2026 (Open Scientific Intelligence), for LANTERN"
+      - "Duke BME Travel Grants (2026, $500 each) to attend BMES and SfN"
+      - "3rd Position, B-Plan Competition, Kshitij 2019, IIT-Kharagpur, for ReviewLib"
+      - "2nd Position, Logical Rhythms Machine Learning Competition, Avishkar 2017, MNNIT"
+      - "1st Position and DIIC funding for neutral host femtocell design, Avishkar 2016, MNNIT"
+      - "1st Prize, Ad-Lib (Idea presentation competition), Avishkar 2015, MNNIT, for a modified version of Whisson's Windmill"
+      - "District Topper in CBSE Class XII exams (Science Stream) for Ganjam District"
+      - "KVPY (Kishore Vaigyanik Protsahan Yojna) fellowship, IISc Bangalore, 2014"
+      - "3rd Prize, NASA Ames Space Settlement Design Contest 2012, for Cosmosville"
 
 certifications:
     title: Certifications
@@ -249,37 +313,6 @@ certifications:
 #         link: "#hook"
 #         tagline: |
 #             A responsive website template designed to help startups promote, market and sell their products.
-
-publications:
-    title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-    papers:
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - title: "Capsule neural networks on spatio-temporal EEG frames for cross-subject emotion recognition "
-        link: "https://doi.org/10.1016/j.bspc.2021.103361"
-        authors: Gopal Chandra Jana, Anshuman Sabath, Anupam Agrawal
-        conference: Biomedical Signal Processing and Control, Volume 72, Part B, 2022, 103361, ISSN 1746-8094 
-      
-      - title: "Performance Analysis of Supervised Machine Learning Algorithms for Epileptic Seizure Detection with high variability EEG datasets: A Comparative Study "
-        link: "https://ieeexplore.ieee.org/document/8980115"
-        authors: G. C. Jana, A. Sabath and A. Agrawal
-        conference: International Conference on Electrical, Electronics and Computer Engineering, UPCON 2019 (IEEE) 
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
